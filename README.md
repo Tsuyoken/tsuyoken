@@ -1,13 +1,12 @@
-# Ferdi S Kennedy
-
 ## About
 Hi, I'm Ferdi S Kennedy , my real name is Ferdian Cahya Sukma, i'm a Junior Programmer and IT Support. I live in Bogor , West Java, Indonesia. 
-```
-```
+
+<img alt="#" src="https://img.shields.io/badge/FERDI-KENNEDY-blue">
+<img alt"#" src="https://img.shields.io/badge/TOTAL%20STAR-99-gold">
+
 ## Github Performance Overall
 
-![github stats](https://github-readme-stats.vercel.app/api?username=kennedy69&show_icons=true)
-
+![github stats](https://github-readme-stats.vercel.app/api?username=kennedy69&show_icons=true) 
 
 ## Current activity
 
