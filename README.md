@@ -1,16 +1,28 @@
-### Hi there 👋
+# Ferdi S Kennedy
 
-<!--
-**kennedy69/kennedy69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+Hi, I'm Ferdi S Kennedy , my real name is Ferdian Cahya Sukma, i'm a Junior Programmer and IT Support. I live in Bogor , West Java, Indonesia. 
+```
+```
+## Github Performance Overall
 
-Here are some ideas to get you started:
+![github stats](https://github-readme-stats.vercel.app/api?username=kennedy69&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Current activity
+
+- 🎓 Goes to <a href="https://tkjsmkn2.sch.id">SMK Negeri 2 Kota Bekasi</a>
+- 🔖 My hobby is Coding, Reading, and Playing Basketball
+- 👨‍💻 Work as Freelancer
+```
+```
+## My Abbility
+- 📲 UI Designer
+- 🖌 Graphics Design
+- 🐧 Linux System Admin
+```
+```
+## Contacts
+- 💌 <a href="mailto:ferdikennedy@protonmail.com">E-mail</a>
+- 🇫 <a href="https://facebook.com/kennedy.go.id">Facebook</a>
+- 📷 <a href="https://instagram.com/ferdikennedy">Instagram</a> 
