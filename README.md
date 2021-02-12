@@ -4,7 +4,12 @@ Hi, I'm Ferdi S Kennedy , my real name is Ferdian Cahya Sukma, i'm a Junior Prog
 
 ## Github Performance Overall
 
-![github stats](https://github-readme-stats.vercel.app/api?username=kennedy69&show_icons=true) 
+<a href="#ǝɔϟlʍo" target="_blank">
+        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=tsuyoken&hide=html,&hide_border=true&title_color=4c566a&text_color=3b4252"/>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=tsuyoken&show_icons=true&hide=issues,commits&hide_border=true&icon_color=63c5ea&title_color=4c566a&text_color=3b4252"/>
+    </a>
+
+![](https://komarev.com/ghpvc/?username=tsuyoken&color=3D4C5F)
 
 ## Current activity
 
