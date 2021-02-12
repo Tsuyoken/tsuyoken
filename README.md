@@ -9,6 +9,9 @@ Hi, I'm Ferdi S Kennedy , my real name is Ferdian Cahya Sukma, i'm a Junior Prog
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=tsuyoken&show_icons=true&hide=issues,commits&hide_border=true&icon_color=63c5ea&title_color=4c566a&text_color=3b4252"/>
     </a>
 
+
+## Visitor
+
 ![Visitor Count](https://profile-counter.glitch.me/Tsuyoken/count.svg)
 
 ## Current activity
