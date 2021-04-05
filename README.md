@@ -2,8 +2,9 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Tsuyoken/count.svg" />
 </p>
-Hi, I'm Ferdi S Kennedy , my real name is Ferdian Cahya Sukma, i'm a Junior Programmer and IT Support. I live in Bogor , West Java, Indonesia. 
-
+<div>
+<p>Hi, I'm Ferdi S Kennedy , my real name is Ferdian Cahya Sukma, i'm a Junior Programmer and Linux Enthusiast. I live in Bogor , West Java, Indonesia. 
+  </p></div><br>
 <img alt="#" src="https://img.shields.io/badge/FERDI-KENNEDY-ec008c"> 
 
 <div>
@@ -24,6 +25,7 @@ Hi, I'm Ferdi S Kennedy , my real name is Ferdian Cahya Sukma, i'm a Junior Prog
 
 <details>
 <summary><b>Ability</b></summary>
+  
 - 📲 UI Designer
 - 🖌 Graphics Design
 - 🐧 Linux System Admin
@@ -31,6 +33,7 @@ Hi, I'm Ferdi S Kennedy , my real name is Ferdian Cahya Sukma, i'm a Junior Prog
 
 <details>
 <summary><b>Connect With Me</b></summary>
+  
 - 💌 <a href="mailto:ferdikennedy@protonmail.com">E-mail</a>
 - 🇫 <a href="https://facebook.com/kennedy.go.id">Facebook</a>
 - 📷 <a href="https://instagram.com/ferdikennedy">Instagram</a> 
