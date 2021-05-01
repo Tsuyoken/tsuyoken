@@ -3,6 +3,11 @@
   <img src="https://profile-counter.glitch.me/Tsuyoken/count.svg" />
 </p>
 <div>
+<img alt="Banner" src="https://github.com/Tsuyoken/tsuyoken/raw/master/Baked%20Treats%20Event%20Banner.png"/>
+</div>
+<details>
+  <summary><b>Touch me senpai</b></summary>
+<div>
 <p>Hi, I'm Ferdi S Kennedy , my real name is Ferdian Cahya Sukma, i'm a Junior Programmer and Linux Enthusiast. I live in Bogor , West Java, Indonesia. 
   </p></div><br>
 <img alt="#" src="https://img.shields.io/badge/FERDI-KENNEDY-ec008c"> 
@@ -13,7 +18,7 @@
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=tsuyoken&show_icons=true&hide=issues,commits&hide_border=true&icon_color=f953c6&title_color=ec008c&text_color=fc6767"/>
     </a>
 </div>
-
+</details>
 
 <details>
 <summary><b>Current Activity</b></summary>
