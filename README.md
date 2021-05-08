@@ -6,7 +6,7 @@
 <img alt="Banner" src="https://github.com/Tsuyoken/tsuyoken/raw/master/Baked%20Treats%20Event%20Banner.png"/>
 </div>
 <details>
-  <summary><b>Touch me senpai</b></summary>
+  <summary><b>Touch me</b></summary>
 <div>
 <p>Hi, I'm Ferdi S Kennedy , my real name is Ferdian Cahya Sukma, i'm a Junior Programmer and Linux Enthusiast. I live in Bogor , West Java, Indonesia. 
   </p></div><br>
@@ -14,7 +14,7 @@
 
 <div>
    <h2>Github Performance Overall<h2>
-        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=tsuyoken&hide=html,&hide_border=true&title_color=ec008c&text_color=fc6767"/>
+        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&username=tsuyoken&langs_count=8,&hide_border=true&title_color=ec008c&text_color=fc6767"/><br>
         <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=tsuyoken&show_icons=true&hide=issues,commits&hide_border=true&icon_color=f953c6&title_color=ec008c&text_color=fc6767"/>
     </a>
 </div>
