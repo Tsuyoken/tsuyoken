@@ -23,7 +23,7 @@
 <details>
 <summary><b>Current Activity</b></summary>
 
-- 🎓 Goes to <a href="https://tkjsmkn2.sch.id">SMK Negeri 2 Kota Bekasi</a>
+- 🎓 Goes to <a href="https://nurulfikri.ac.id">STT Nurul Fikri</a>
 - 🔖 My hobby is Coding, Reading, and Playing Basketball
 - 👨‍💻 Work as Freelancer
 </details>
