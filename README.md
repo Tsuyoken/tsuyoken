@@ -48,4 +48,7 @@
 <a href="https://dev.to/kennedy69">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="Ferdi S Kennedy's DEV Profile" height="30" width="30">
 </a>
+  <a href="https://codepen.io/tsuyoken">
+  <img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png" alt="Ferdi S Kennedy's DEV Profile" height="30" width="30">
+</a>
 </div>
